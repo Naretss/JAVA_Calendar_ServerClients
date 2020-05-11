@@ -1,3 +1,7 @@
+Import zip to netbeans 
+1. start Project [ServerCalendar]
+2. start Project [ClientCalendar]
+
 ![Example TDD](../images/8.png?raw=true)
 ![Example TDD](../images/0.png?raw=true)
 ![Example TDD](../images/0.png?raw=true)
